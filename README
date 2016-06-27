@@ -1,0 +1,1 @@
+This is a PyProcessing3 sketch which implements a cellular automata that uses floats instead of bits. This is just a little toy, but it struck me as an interesting variation on the regular automata. Change the "rule" line as indicated in the code to experiment with different rules.
